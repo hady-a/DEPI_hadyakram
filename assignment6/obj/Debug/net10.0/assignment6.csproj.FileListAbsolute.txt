@@ -1,0 +1,15 @@
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/bin/Debug/net10.0/assignment6
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/bin/Debug/net10.0/assignment6.deps.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/bin/Debug/net10.0/assignment6.runtimeconfig.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/bin/Debug/net10.0/assignment6.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/bin/Debug/net10.0/assignment6.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.AssemblyInfoInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.AssemblyInfo.cs
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.csproj.CoreCompileInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.sourcelink.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/refint/assignment6.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/assignment6.genruntimeconfig.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment6/obj/Debug/net10.0/ref/assignment6.dll
