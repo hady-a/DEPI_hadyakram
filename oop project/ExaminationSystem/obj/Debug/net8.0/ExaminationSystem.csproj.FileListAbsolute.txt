@@ -1,0 +1,14 @@
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/bin/Debug/net8.0/ExaminationSystem
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/bin/Debug/net8.0/ExaminationSystem.deps.json
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/bin/Debug/net8.0/ExaminationSystem.runtimeconfig.json
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/bin/Debug/net8.0/ExaminationSystem.dll
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/bin/Debug/net8.0/ExaminationSystem.pdb
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.AssemblyInfoInputs.cache
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.AssemblyInfo.cs
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.csproj.CoreCompileInputs.cache
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.dll
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/refint/ExaminationSystem.dll
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.pdb
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ExaminationSystem.genruntimeconfig.cache
+/Users/hadyakram/Desktop/oop project/ExaminationSystem/obj/Debug/net8.0/ref/ExaminationSystem.dll
