@@ -1,0 +1,15 @@
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.AssemblyInfoInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.AssemblyInfo.cs
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.csproj.CoreCompileInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.sourcelink.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/bin/Debug/net10.0/assignment 4
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/bin/Debug/net10.0/assignment 4.deps.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/bin/Debug/net10.0/assignment 4.runtimeconfig.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/bin/Debug/net10.0/assignment 4.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/bin/Debug/net10.0/assignment 4.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/refint/assignment 4.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/assignment 4.genruntimeconfig.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment 4/obj/Debug/net10.0/ref/assignment 4.dll
