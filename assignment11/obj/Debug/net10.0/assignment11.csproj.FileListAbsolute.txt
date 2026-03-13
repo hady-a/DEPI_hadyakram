@@ -1,0 +1,15 @@
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/bin/Debug/net10.0/assignment11
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/bin/Debug/net10.0/assignment11.deps.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/bin/Debug/net10.0/assignment11.runtimeconfig.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/bin/Debug/net10.0/assignment11.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/bin/Debug/net10.0/assignment11.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.AssemblyInfoInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.AssemblyInfo.cs
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.csproj.CoreCompileInputs.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.sourcelink.json
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/refint/assignment11.dll
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.pdb
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/assignment11.genruntimeconfig.cache
+/Users/hadyakram/Desktop/DEPI_hadyakram/assignment11/obj/Debug/net10.0/ref/assignment11.dll
